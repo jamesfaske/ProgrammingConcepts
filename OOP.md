@@ -5,6 +5,13 @@
    2. Provides a stable interface
    3. Makes refactoring easier
 2. Inheritance
+   1. Allows you to create a new class that reuses, extends, modifies the bahavior of another class
+   2. Base class / derived class
+   3. Types of classes
+      1. Sealed
+         1.
+      2. Abstract
+      3. 
 3. Polymorphism
 4. Classes
    1. Objects are instances of a class
