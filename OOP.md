@@ -9,9 +9,7 @@
    2. Base class / derived class
    3. Types of classes
       1. Sealed
-         1.
       2. Abstract
-      3. 
 3. Polymorphism
 4. Classes
    1. Objects are instances of a class
