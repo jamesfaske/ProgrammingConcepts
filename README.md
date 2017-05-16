@@ -1,2 +1,2 @@
 # ProgrammingConcepts
-My notes on popular programming concepts, design patterns, architecture, etc
+My notes on popular programming concepts, principles, design patterns, architecture, etc
