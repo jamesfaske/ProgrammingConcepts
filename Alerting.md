@@ -1,10 +1,10 @@
 1. Pages
-  1.Urgent
-  2.Important
-  3.Actionable
-  4.Real
-  5.must require intelligence (can it be scripted for self-healing?)
-  6.must only alert those who can/will fix the issue
+   1. Urgent
+   2. Important
+   3. Actionable
+   4. Real
+   5. must require intelligence (can it be scripted for self-healing?)
+   6. must only alert those who can/will fix the issue
 2. Types of Alerts
   1. Availability of basic functionality
   2. Latency
